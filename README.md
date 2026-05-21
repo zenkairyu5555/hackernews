@@ -1,4 +1,4 @@
-# hackernews backend
+# hackernews backend✨
 
 ## Overview
 Hackernews backend app
